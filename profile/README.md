@@ -16,11 +16,11 @@ AskLLM is a project that interacts with language models from OpenAI, hosted eith
 
 To get started with AskLLM, you can clone the repository and follow the instructions in the project's README.
 
-\`\`\`bash
+```bash
 git clone https://github.com/builtwithai/askllm.git
 cd askllm
 npm install
-\`\`\`
+```
 
 ### Contributing
 
