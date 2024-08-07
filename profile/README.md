@@ -4,11 +4,11 @@
 
 ## 🌈 AskLLM
 
-AskLLM is a project that interacts with language models from OpenAI, hosted either on Azure or OpenAI. It's a part of the BuiltWithAI organization's initiative to explore and utilize AI capabilities.
+AskLLM is a project that interacts with language models, hosted either on Azure or OpenAI. It's a part of the BuiltWithAI organization's initiative to explore and utilize AI capabilities.
 
 ### 👩‍💻 Features
 
-- Interact with OpenAI's language models
+- Interact with language models
 - Hosted on Azure for reliable performance
 - Easy to use and integrate
 
