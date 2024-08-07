@@ -1,6 +1,6 @@
 # BuiltWithAI Organization
 
-🙋‍♀️ Welcome to the BuiltWithAI organization! We are a group of developers passionate about leveraging AI to build innovative applications. Couple of our projects are AskLLM & gh-commit.
+🙋‍♀️ Welcome to the BuiltWithAI organization! We are a group of developers passionate about leveraging AI to build innovative applications. Couple of our projects are AskGPT, AskLLM & gh-commit.
 
 ## 🌈 AskLLM
 
